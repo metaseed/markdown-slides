@@ -16,11 +16,36 @@
     "revealjs.center": false,
 ```
 
-control the background and id of the slide.
+* first slide:
 
 ```html
-<!-- .slide: data-background="./slide/images/background.jpg" -->
+<!-- .slide: data-background="./images/background.jpg" -->
 <!-- .slide: id="routing-advanced" -->
+
+# Topic Title
+
+## Subtopic Title
+
+<small>Created by [metasong](http://metaseed.com) / [@metasong](http://twitter.com/metasong)</small>
+
+---
+
+second slide
+```
+
+* question/answer side:
+
+```html
+---
+<!-- .slide: data-background="./slide/images/question-slide.jpg" -->
+## Quiz
+
+--
+<!-- .slide: data-background="./slide/images/answer-slide.jpg" -->
+
+## Answer
+
+answer is...
 ```
 
 ## Reference
