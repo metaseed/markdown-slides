@@ -16,12 +16,13 @@
     "revealjs.center": false,
 ```
 
-* first slide:
+* copy the slide fold to the location of your slide
+
+* create your first slide:
 
 ```html
-<!-- .slide: data-background="./images/background.jpg" -->
-<!-- .slide: id="routing-advanced" -->
-
+<!-- .slide: data-background="./slide/images/background.svg" -->
+<!-- .slide: id="your-side-id" -->
 # Topic Title
 
 ## Subtopic Title
